@@ -1,7 +1,4 @@
 # STM32H7-HighSpeed-Dev-Board
-A 4-layer, interview-ready development board featuring the STM32H743VIT6, optimized for signal integrity and power isolation.
-# STM32H7 High-Speed 4-Layer Development Board
-
 An interview-ready, high-performance development platform designed around the ARM Cortex-M7 **STM32H743VIT6** microcontroller (operating at up to 480 MHz). This project showcases advanced hardware engineering principles, including 4-layer PCB stackup optimization, high-speed digital signal integrity, and isolated power management switching nodes.
 
 ## 🚀 Key Features & Specifications
