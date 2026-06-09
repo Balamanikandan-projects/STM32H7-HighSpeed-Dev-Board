@@ -72,4 +72,3 @@ The project contains a complete, automated manufacturing release package generat
 1. Clone this repository.
 2. Download and install **KiCad v7 or later**.
 3. Open the `.kicad_pro` project file to explore the fully cleared DRC schema and layout!
-4. 
